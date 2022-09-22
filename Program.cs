@@ -26,7 +26,8 @@ namespace w02_example // Note: actual namespace depends on the project name.
 
             int result2 = Adder(10, 46); // 56
 
-            Console.WriteLine($"these are my results: {result}. Result 2: {result2}");
+            Console.WriteLine($"these are my results: {result}.");
+            Console.WriteLine($"Result 2: {result2}");
 
         }
 
